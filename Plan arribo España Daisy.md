@@ -1,5 +1,5 @@
 ---
-title: $Planes Arrivo España Daisy$
+title: Planes Arrivo España Daisy
 tags: bloc
 author: yose yus
 ---
