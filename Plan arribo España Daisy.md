@@ -13,6 +13,11 @@ author: yose yus
 - cuando venga Sonia mudarse y alquilar un departamento
 - 
 # COMO HACERLO
+## Buscar trabajo
+- crearse una cuenta en LinkedIn y rellensr datos
+- empezar a seguir personas de tu nicho de empleo, todas las que puedas. Esto con el objetivo de ampliar tus contactos y te puedan hallar los empleadores
+- coloca toda tu experiencia, trabajos y empresas
+- envía mensajes a 
 ## Alquiler de casa
 Antes que nada es bueno alquilar la casa de Ecuador para no tener gastos ahí. Así todos podremos ayudar a pagar el alquiler. 
 - José saca una hipoteca de un departamento cerca y viven mami carmen, Daisy y juan solos. Saldrá 450€
