@@ -13,3 +13,5 @@ Tambien el hecho de que tenga cosas de decir y que cuando estoy frente a mi diar
 
 Pero bueno, el punto de este archivo es lograr sacar todo tipo de sensaciones y emociones intensas que necesite sacar, y supongo que con un diario al alcance de mi mobil pueda ser de utilidad.
 
+
+
