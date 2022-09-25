@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Markmap</title>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+#mindmap {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.3/dist/style.css">
+</head>
+<body>
+<svg id="mindmap"></svg>
+<script src="https://cdn.jsdelivr.net/npm/d3@6.7.0"></script><script src="https://cdn.jsdelivr.net/npm/markmap-view@0.14.3"></script><script src="https://cdn.jsdelivr.net/npm/markmap-toolbar@0.14.3/dist/index.umd.min.js"></script><script>(r => {
+                setTimeout(r);
+              })(() => {
+  const {
+    markmap,
+    mm
+  } = window;
+  const toolbar = new markmap.Toolbar();
+  toolbar.attach(mm);
+  const el = toolbar.render();
+  el.setAttribute('style', 'position:absolute;bottom:20px;right:20px');
+  document.body.append(el);
+})</script><script>((getMarkmap, getOptions, root, jsonOptions) => {
+        const markmap = getMarkmap();
+        window.mm = markmap.Markmap.create('svg#mindmap', (getOptions || markmap.deriveOptions)(jsonOptions), root);
+      })(() => window.markmap,null,{"type":"heading","depth":0,"payload":{"lines":[0,1]},"content":"Asuntos","children":[{"type":"heading","depth":1,"payload":{"lines":[3,4]},"content":"Programacion","children":[{"type":"list_item","depth":2,"payload":{"lines":[4,5]},"content":"Mi página web"},{"type":"list_item","depth":2,"payload":{"lines":[5,6]},"content":"Otros paginas"},{"type":"list_item","depth":2,"payload":{"lines":[6,7]},"content":"actualidad"}]},{"type":"heading","depth":1,"payload":{"lines":[8,9]},"content":"Ejercito","children":[{"type":"heading","depth":2,"payload":{"lines":[9,10]},"content":"actualidad","children":[{"type":"list_item","depth":3,"payload":{"lines":[10,11]},"content":"canal cosas militares"}]},{"type":"heading","depth":2,"payload":{"lines":[11,12]},"content":"armamento"},{"type":"heading","depth":2,"payload":{"lines":[12,13]},"content":"estudiar asignaturas"}]},{"type":"heading","depth":1,"payload":{"lines":[14,15]},"content":"Ciencia","children":[{"type":"heading","depth":2,"payload":{"lines":[15,16]},"content":"IA","children":[{"type":"list_item","depth":3,"payload":{"lines":[16,17]},"content":"Dalle2"}]},{"type":"heading","depth":2,"payload":{"lines":[17,18]},"content":"youtubers","children":[{"type":"list_item","depth":3,"payload":{"lines":[18,19]},"content":"cDeCiencia"},{"type":"list_item","depth":3,"payload":{"lines":[19,20]},"content":"quantumFacture"},{"type":"list_item","depth":3,"payload":{"lines":[20,21]},"content":"robot de platon"}]}]},{"type":"heading","depth":1,"payload":{"lines":[22,23]},"content":"Caravanas","children":[{"type":"list_item","depth":2,"payload":{"lines":[23,24]},"content":"Marcas y modelos"},{"type":"list_item","depth":2,"payload":{"lines":[24,25]},"content":"Manual de Coches"},{"type":"list_item","depth":2,"payload":{"lines":[25,26]},"content":"Como vivir en ellas"}]},{"type":"heading","depth":1,"payload":{"lines":[27,28]},"content":"Lectura","children":[{"type":"heading","depth":2,"payload":{"lines":[28,29]},"content":"mis autores","children":[{"type":"list_item","depth":3,"payload":{"lines":[29,30]},"content":"john cleese"}]},{"type":"heading","depth":2,"payload":{"lines":[30,31]},"content":"historia"},{"type":"heading","depth":2,"payload":{"lines":[31,32]},"content":"novelas"}]},{"type":"heading","depth":1,"payload":{"lines":[33,34]},"content":"Filosofia","children":[{"type":"heading","depth":2,"payload":{"lines":[34,35]},"content":"ideologias"},{"type":"heading","depth":2,"payload":{"lines":[35,36]},"content":"kant, heidegger, nietzche"},{"type":"heading","depth":2,"payload":{"lines":[36,37]},"content":"divulgadores","children":[{"type":"list_item","depth":3,"payload":{"lines":[37,38]},"content":"Darin Mcnabb"},{"type":"list_item","depth":3,"payload":{"lines":[38,39]},"content":"Migala"}]}]},{"type":"heading","depth":1,"payload":{"lines":[39,40]},"content":"Ocio","children":[{"type":"list_item","depth":2,"payload":{"lines":[40,41]},"content":"videojuegos"},{"type":"list_item","depth":2,"payload":{"lines":[41,42]},"content":"podcast"},{"type":"list_item","depth":2,"payload":{"lines":[42,43]},"content":"series"},{"type":"list_item","depth":2,"payload":{"lines":[43,44]},"content":"asuntos ramdom ( politica, arte, teatro, etc)"}]}]},{})</script>
+</body>
+</html>
