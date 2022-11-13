@@ -45,7 +45,7 @@ mmm...con relajarme a que me puedo estar refiriendo? escuchando musica me relaja
 
 > En fin, estoy confundido en que debo priorizar. Usar mi tiempo de fin de semana para completar tareas, o simplemente relajarme y ya veremos que pasa despues.
 
-# Awareness sobre el ser Humano 
+## Awareness sobre el ser Humano 
 Estoy dándome cuenta de que el ser humano es muy imperfecto, o al menos los compañeros milicos que tengo aquí cada uno tiene su imperfección y su rareza que hace que nos demos cuenta lo mortal y carnosos que somos. 
 El sierra, Alonso, Álvaro, Olmedo, garrido, fer, luisfer, Miguel... 
 Personajes completos con su rareza particular. 
