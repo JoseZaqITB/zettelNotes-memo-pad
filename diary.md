@@ -50,4 +50,7 @@ Estoy dándome cuenta de que el ser humano es muy imperfecto, o al menos los com
 El sierra, Alonso, Álvaro, Olmedo, garrido, fer, luisfer, Miguel... 
 Personajes completos con su rareza particular. 
 
-
+## Sobre la soledad en Zaragoza 
+Cuando desperté al día siguiente de la noche de discoteca con los guardias reales, me dio un rezacon, y con esto la depresión. 
+Y por ende mis pensamientos eran los típicos que suelo tener en esos casos, el sin sentido de la vida, lo poco que valemos, no importa lo que haga, etc. Pero hubo una que hacía tener ganas de llorar, mi soledad. Mientras caminaba por Zaragoza por el borde del río me tope con familias paseando y gente agrupada pasándola bien. Cuando me encontré con un grupo de ecuatorianos jugando volley se me lleno la mente de recuerdos y el corazón se debilitó. La sensación de soledad es desagradable, te sientes aislado y sin motivos de vivir. Extrañe de pronto a mi padre y me sentí mal por dejarlo ahí solo, sentía pena de perderme de las historias con el gato y la mami deisy y el resto. 
+Me sentí abandonado por todos.
