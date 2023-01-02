@@ -77,3 +77,22 @@ Y claro ahora todo eso que pienso de él es lo q me have sentir mucho peor, pues
 Por lo que esa casa ahora mismo está maldita, apenas topo su suelo con un pie me invade una sensación espiritual desagradable. 
 
 Creo que esto se puede curar diciéndole todo esto a mi padre y encararlo para po fin poder liberarme y ya ser tal y como soy y no encerrarme en esta actitud neutral no emocional que me toca adoptar con el ( soy otra persona dentro, me transformó para evitar hacer daño a alguien). Pero eso no va a pasar hasta q sepa que alguien va a estar a su lado cuando se lo diga. 
+
+## Papel de soldado
+Ya intérprete mi papel de soldado con mi familia. En Navidad me fui a casa de mi tío yury, tomamos y comimos un montón, y en ese tiempo pude interpretar un papel que en las anteriores navidades no sabía si siquiera lo iba a hacer. Es bonito y enriquecedor saber que has cumplido una meta, aunque no me parece la gran cosa, si que es algo que no todo el mundo puede realizarlo. 
+En fin, hablé de como es ser un soldado, que armas uso, que cosas hago, rango, compañeros, forma de vida, etc. Me sentí bien. Aparte fue la primera Navidad en la que estoy trabajando de manera permanente en una empresa, con un sueldo estable y ya di mis primeros regalos de Navidad con mi dinero ( aunque podría discutir si en realidad hice algo para merecerlo). 
+Ya me estoy convirtiendo, poco a poco, en un adulto, ya no soy el niño de las fiestas y ya estoy apunto de abandonar el papel de adolescente de la fiesta. 
+Y viendo en los demás, me ha ido bien, porque por ejemplo la Nao no ha podido todavía encontrar una carrera q en realidad le guste y tampoco un trabajo, lo que hace q no sea independiente todavía algo que se ve que ya quiere. 
+Solo agradezco a todos los que se han topado en mi camino y me han hecho tener un sistema de ideas q me haya conducido por un camino de decisiones  hasta aquí, un lugar que me agrada ( siempre y cuando no se encienda una guerra) 
+
+## Abstinencias
+El alcohol tiene q salir de mi vida, no lo veo bueno en ningun sentido ya...bueno en solo uno, que me hace sentir cómodo en una reunión familiar ( algo que en si mismo es malo), pero claro dudo mucho que sea la mejor y única solución. 
+
+Por lo que he decidido de manera oficial y  seria dejar el alcohol. Cuando vaya a una fiesta tomaré literalmente solo una para animar mi alma social, pero de ahí nada más, no vale la pena. 
+
+Las cosas que hago cuando tomo demasiado son muy vergonzosas para mi y siempre que despierto al día siguiente me da miedo cuando alguien me dice riéndose de las cosas que hice ayer sin acordarme de nada. En algún momento haré una pataneria injustificable y me verán mal, y aparte se que tengo problemas sentimentales que pueden explotar en esos momentos. 
+
+Quiero aprender a disfrutar de mi gente sobrio, y alguien q me da ese ejemplo es iago que disfruta mucho más que todos los borrachos de una disco juntos. 
+
+Es un cambio de perspectiva sobre la diversión en las fiestas, no es la bebida la que te libera y te hace ser terriblemente social, eso es parte de ti, no puede ser otra persona el q o hace, hay que aprender a sacarlo, tal y como sacas tu niño interior en el momento que te colocas la nariz en el clown. 
+
