@@ -96,3 +96,6 @@ Quiero aprender a disfrutar de mi gente sobrio, y alguien q me da ese ejemplo es
 
 Es un cambio de perspectiva sobre la diversión en las fiestas, no es la bebida la que te libera y te hace ser terriblemente social, eso es parte de ti, no puede ser otra persona el q o hace, hay que aprender a sacarlo, tal y como sacas tu niño interior en el momento que te colocas la nariz en el clown. 
 
+Porque mi único motivo para beber es conectar con la gente en una fiesta, poder conversar de todo cómodamente sin vergüenzas ni miedos. 
+Hay personas q sus motivos son más complejas de esquivar, como la depresión, o el vicio. 
+
