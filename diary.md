@@ -62,3 +62,18 @@ Cada vez que me amenazan o sucede algo alrededor mío en el que puede peligrar m
 ## Mi lindo Ecuador
 Al escuchar a verde70 volví a momentos en Ecuador lo que me hizo tener sensaciones antiguas. Hoy coincidí con las pestañas de la película de julio jaramillo y me conmovió su música, su acento y su historia, ahora podría decir con mucha seguridad que estoy enamorado de mi país Ecuador, su manera de contar sus historias al mundo,  su forma  amoldada por siglos que da un toque único a nosotros los ecuatorianos y la manera en que nos hizo vivir la niñez y  juventud. Cuando veo una película española o americana no me puedo identificar con sus relatos pues no  representan nada q he vivido, en cambio una película ecuatoriana si, su entorno, personajes, habla me hacen sentirme representado. La sensación de haber vivido parte de la película es muy placentero, pocas cosas pueden invocar este manjar de emociones. 
 No se porque pero al ver Alba me recordaba a la Eli, la seriedad de la niña y como hablaba y comportaba y las amigas que tenia, todo. También me hacía reflexionar del hecho de que me gusta un tipo de chica que haya pasado por malos ratos para yo poder ayudarla a salir a la superficie del océano de represión social. 
+
+## Incómodo en casa todavía 
+La paso bien sólo cuando estoy en la casa de mi padre en Barcelona, el día empieza por las 10 una vez que haya dormido mis merecidas 8horas, hago ejercicio, la baño y me visto. Desayuno lo que me aparece en el momento ( leche con chocolates :) ) y empiezo a hacer cositas. 
+Me gusta estar en el ordenador mucho tiempo porque ahí puedo ver mi series o vídeos de interés o jugar videojuegos o aprender algo o leer, recordar, cantar, etc. 
+
+En esta temporada por ejemplo me estoy viendo adventure time, Rick y morty, y animando un gift para mi página web. 
+
+Se llegar a un punto de agobio de estar en esas cuatro paredes pero es solo cuando estoy varios días sin salir. 
+Lo verdaderamente incómodo de estar en la casa es estar con mi padre, no lo soporto, me parece una persona con unas ideas y moral anticuadas y de mal gusto. Y no es lo peor, su actitud es horrible hasta tal punto que ya no puedo controlar mis propios sentimientos y emociones cuando estoy junto a él. Me pongo ansioso y me agobio, nose donde mirar y trato de evitar todo tipo de conversa con el, porque no me gustan sus respuestas autoritarias y artificiales. 
+
+Y claro ahora todo eso que pienso de él es lo q me have sentir mucho peor, pues siendo mi padre el que me ha dado todo en esta vida, no le estoy agradeciendo con mi trato. 
+
+Por lo que esa casa ahora mismo está maldita, apenas topo su suelo con un pie me invade una sensación espiritual desagradable. 
+
+Creo que esto se puede curar diciéndole todo esto a mi padre y encararlo para po fin poder liberarme y ya ser tal y como soy y no encerrarme en esta actitud neutral no emocional que me toca adoptar con el ( soy otra persona dentro, me transformó para evitar hacer daño a alguien). Pero eso no va a pasar hasta q sepa que alguien va a estar a su lado cuando se lo diga. 
