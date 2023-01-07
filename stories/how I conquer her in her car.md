@@ -24,7 +24,7 @@ Jose: what?! You mean it?? Ok let me see (I grab her hand simulating that i see 
 No way, u are serious. 
 But why? Are u crazy? 
 Vero: haha why u say that? U are pretty too. 
-Jose: because I literally didnt do nothing to make you fell in love with me. I treat u as a friend a the whole time.. I didn't know that that works. 
+Jose: because I literally didnt do nothing to make you fell in love with me. I treat u as a friend a the whole time and I didn't use my powerfull seductive methods.. I didn't know that that works. 
 Vero: yeah I am a little crazy I think. 
 Jose: well, take back what u said, I get exicted swiftly...im just, I'm just have to forget this conversation to avoid do stupid romantic stuff. 
 Vero: haha too late soldadito u know it already. 
