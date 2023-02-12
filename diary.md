@@ -99,3 +99,8 @@ Es un cambio de perspectiva sobre la diversión en las fiestas, no es la bebida 
 Porque mi único motivo para beber es conectar con la gente en una fiesta, poder conversar de todo cómodamente sin vergüenzas ni miedos. 
 Hay personas q sus motivos son más complejas de esquivar, como la depresión, o el vicio. 
 
+## La pos-guerra del aislamiento eada
+Después de pasar 3senanas desconectado del mundo completamente atrapado en una zona de servicios escasos con el objetivo de endurecer a los que entran a la EADA, me siento raro.
+Ahora que tengo la opción de escoger que hacer, no se que hacer. Veo mis tareas pendientes y me parecen extrañas, entro a las redes sociales y no les encuentro el sentido. Por el momento lo único que si me da ganas hacer es escuchar un Podcast o a mi McNabb o una serie.
+La cosa es que estar durante mucho tiempo viviendo solo para seguir órdenes,  hacer nada más que vigilar tus cosas y comer y prepararte para castigos y puteos, te altera un poco la forma de vivir el día a día. Ya no tienes aspiraciones  solo sobrevivir el día.
+Ahora me disgusta em hecho de que tendré q repetir esta exlriencka unas cuantas veces más y que me faltan dos meses para terminar con todo esto. Me pregunto como se sentirá me gente que no puede escapar de estas situaciones. 
