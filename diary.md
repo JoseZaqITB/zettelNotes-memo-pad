@@ -103,4 +103,8 @@ Hay personas q sus motivos son más complejas de esquivar, como la depresión, o
 Después de pasar 3senanas desconectado del mundo completamente atrapado en una zona de servicios escasos con el objetivo de endurecer a los que entran a la EADA, me siento raro.
 Ahora que tengo la opción de escoger que hacer, no se que hacer. Veo mis tareas pendientes y me parecen extrañas, entro a las redes sociales y no les encuentro el sentido. Por el momento lo único que si me da ganas hacer es escuchar un Podcast o a mi McNabb o una serie.
 La cosa es que estar durante mucho tiempo viviendo solo para seguir órdenes,  hacer nada más que vigilar tus cosas y comer y prepararte para castigos y puteos, te altera un poco la forma de vivir el día a día. Ya no tienes aspiraciones  solo sobrevivir el día.
-Ahora me disgusta em hecho de que tendré q repetir esta exlriencka unas cuantas veces más y que me faltan dos meses para terminar con todo esto. Me pregunto como se sentirá me gente que no puede escapar de estas situaciones. 
+Ahora me disgusta em hecho de que tendré q repetir esta exlriencka unas cuantas veces más y que me faltan dos meses para terminar con todo esto. Me pregunto como se sentirá me gente que no puede escapar de estas situaciones.
+
+## Kukalo Teruel
+Vaya dios, antes de que comience la 2da maniobra del plan de instruccion me dio un miedo y nervios de empezar, pues ya sabia lo que iba a pasar, gritos, presiones, ordenes incoherentes, dolor piscologico y fisici fuertes. Yo ya no queria hacerko mas... Pero estaba dentro del plan y tenka que pasarlo para seguir con mi plan futuro.
+Ahira que ya acabo me siento tan aliviado y feliz y aparte coincide que es el cumole de mi father y justo comore boketo para barcelona y justo le invite a un buffet. Que bonitas coincidencias de la vida. 
