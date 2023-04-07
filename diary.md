@@ -130,4 +130,14 @@ Conocerla en profundidad, sus errores, sus aciertos, sus problemas, virtudes, de
 Y con todo eso quererla como nunca, sentirme feliz al verla. 
 
 ## hacia Mi ultima maniobra de intruccion
-Estoy increíblemente entusiasmado por mi ultima maniobra, nose si es pofque ya se que con esto se acaba todo, o porque le termine cogiendo el gusto a esto, o peque me he metido películas de héroes e guerra pero me siento bien sabiendo que voy a, seguramenge, pasarla ogual de mal que en las antefiofes Maniobras. He estudiado para esta maniobra, hay que aprenderse todo sobre procedimientos en una dob y teorías e toda el plan de intruccion. Me emociona lo que hace una semana me asustaba, el helicoptero. Aunque quien sabe seguro mañana cuandl realmente vea lo que va a pasar y vea la cara de los mandos insultandonls y gritandonos mi emoción cambie. 
+Estoy increíblemente entusiasmado por mi ultima maniobra, nose si es pofque ya se que con esto se acaba todo, o porque le termine cogiendo el gusto a esto, o peque me he metido películas de héroes e guerra pero me siento bien sabiendo que voy a, seguramenge, pasarla ogual de mal que en las antefiofes Maniobras. He estudiado para esta maniobra, hay que aprenderse todo sobre procedimientos en una dob y teorías e toda el plan de intruccion. Me emociona lo que hace una semana me asustaba, el helicoptero. Aunque quien sabe seguro mañana cuandl realmente vea lo que va a pasar y vea la cara de los mandos insultandonls y gritandonos mi emoción cambie.
+
+## FIN plan de instruccion
+sin palabras. El fin fue no sólo como yo quedrian que se acabase, sino que fue mejor.
+Este último día fue el más doloroso desde mi punto de vista, no sólo fisico, sino especialmente mental.
+No estabas seguro de nada, de pronto estas cargando en un camión cosas para ya volver a Zaragoza y tus mandos te hablan muy de colega, sientes que se está acabando, viene el autobús y subes, te dicen saquen se los cascos que son 8 horas de camino...
+ahora estoy acostado en mi saco alado de Asensi y alemollone sin poder dormir pero con una sensación de bienestar y amor propio únicos.
+
+## Slow Morning. Un tono de alarma para el plan
+Mi alarma es inteligente: Slow Morning. 
+Me despierto a las 5:50am, esta sonando la alarma del mobil que está debajo de la almohada alado del escritorio, siento una mezcla de nervios, sensación de frío y angustia de no saber que toca hoy. Aún así la alarma me hace sentir como si todo fuera algo nuevo todos los días. Me levanto y recojo cosas pa bañarme en silencio para no despertar a sergi, regreso del baño y me colocó las lentillas y la ropa verde, me ato las botas y me ajusto rodilleras, me pregunto porque me tardo tanto en vestirme casi 10 minutos. ya tranquilo de acabar todo reviso que no me olvide nada y ya después empiezo a ddsayunar. Me subo el altus y la dejo en las sillas de la entrada para ir al baño y maquillarme mientras iago sale del cuarto. 
