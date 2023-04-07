@@ -141,3 +141,25 @@ ahora estoy acostado en mi saco alado de Asensi y alemollone sin poder dormir pe
 ## Slow Morning. Un tono de alarma para el plan
 Mi alarma es inteligente: Slow Morning. 
 Me despierto a las 5:50am, esta sonando la alarma del mobil que está debajo de la almohada alado del escritorio, siento una mezcla de nervios, sensación de frío y angustia de no saber que toca hoy. Aún así la alarma me hace sentir como si todo fuera algo nuevo todos los días. Me levanto y recojo cosas pa bañarme en silencio para no despertar a sergi, regreso del baño y me colocó las lentillas y la ropa verde, me ato las botas y me ajusto rodilleras, me pregunto porque me tardo tanto en vestirme casi 10 minutos. ya tranquilo de acabar todo reviso que no me olvide nada y ya después empiezo a ddsayunar. Me subo el altus y la dejo en las sillas de la entrada para ir al baño y maquillarme mientras iago sale del cuarto. 
+
+## Conclusiones del Plan de Instruccion
+Se acabo. Ahora cuando voy al Eada tengo trabajos mas sencillos y puedo tener tiempo para comer o ir al baño o lo que sea. 
+Lo que aprendi en el plan fue sobre la manera que se aprende a realizar acciones de soldado, por ejemplo que hacer cuando ves una bomba o un enemigo. Tambien me gusta el hecho de saber como actuar en caso de un herido o persona que tenga problemas aplicando primeros auxilios. 
+Se que puedo manejar situaciones estresantes mucho mejor que antes.
+Tengo claro que tipo de cosas puedo tolerar y cuales no tanto, y que debo mejorar como seria el tema de la natacion.
+Ahora aprecio mejor mi modo de vida que es muy buena y calmada, no tengo que buscar comida ni aguantar hambre ni sed, tengo colegas con quienes conversar dia a dia y mmi ambiente es bueno, eso si, hace falta mas arte en mi vida.
+Si tuviera que repetir el plan no lo haria, porque no me gusta el frío y especialmente no me gusta que me traten como basura, y eso me hace valorar a las personas que me tratan bien, con respeto, mi vida ssería muy dificil con personas toscas y agresivas, estresadas y egoistas. Ahora se que no quiero personas así en mi vida y que anhelo que mi pareja sea todo lo contrario.
+Me siento orgulloso de haber pasado todo eso. Soporte temperaturas de -17 grados, probé por primera vez la nieve, abandone la vida fácil sin comida ni bebida ni tiempo, me alejé de mi zona de confort y mis proyectos los dejé aun lado enfocandome en sobrevivir, aprendí a manejar situaciones de alta tensión y como es afectado mi cuerpo y mis ideas en esa situacion, disparé armas pesadas y sentí el sabor de usar cosas que puedan matar a alguien, compartí vida durante varias semanas las 24h del día con personas fuera de mi familia, comprendi mejor a los españoles, ví como se me veía a traves de los ojos de las otras personas ( ser tranquilo y muy cayado ), confirme mi dificultad para tratar con las personas, aclare mis ideas sobre lo que realmente quiero en la vida.
+Descubri un defecto en mí, y es que realmente soy muy distraido, me cuesta enfocarme en el ahora y escuchar a las personas.
+
+En jaca cuando salí del autobus y recogi las cosas que se llevaría en la espalda sentí un peso muy grande que yo pensaba que no duraría mucho y por ende no nos harían caminar demasiado...sin embargo caminamos 5km antes de descanzar por 1era vez, despues recorrimos otros 8km con el mismo peso. En esos trayectos senti por 1era vez la nieve y me parecio el fenomeno climatico más irritante que he sentido, aunque pisarlo se sentía bien.
+El pasar por las piedras del río que estaban colocadas de forma que hacían un camino era una experiencia que iba cobrando más terror en uno, porque uno no estaba seguro en que momento una piedra se deslizaría o si estaba resbalosa o si simplemente tus movimientos fallasen y cayeras al río, que con 0 grados no apetecia tocar sus aguas heladas.
+Las noches eran horribles, dormir en un saco con poca experiencia para armar un buen poncheo y tener al día siiguiente botas hecho piedra por lo congelado que estaban y la fea sensacion de abrir el saco y sentir el cambio de calido a muy frio recorriendo tu cuerpo y tener que cambiarte rapidamente porque llegas tarde.
+Evidentemente las caminatas tambien fueron desagradables, dolor en la espalda por los 30kg de peso que llevas encima, cotas muy altas, errar de direccion y tener que volver cientos de metros por donde has venido.
+Cuando recuerdo la noche que nos despertaron a gritos y sonidos estruendosos me da dolor en el pecho, recuerdo estar debajo del poncho escuchando esos gritos ansioso porque sabñia que tenia que recoger todo inmediatamente y que me iban a estar empujando y gritando en la oreja.
+
+En kukaloh...
+
+En Murcia...
+
+Ahora tengo que organizar mi vida de nuevo porque con mi tiempo libre quiero hacer muchas cosas pero no logro centrarme en una. Cuando empiezo una, de pronto me aburro y empiezo a realizar otra, sin acabar nunca nada.
