@@ -180,3 +180,16 @@ No me di ni cuenta cuando ya estaba a unos metros del suelo, no me dio tiempo a 
 ## La manera de reirse aqui
 Me daba miedo cuando se reian y se les veia toda la encia, era monstruoso. 
 Ahora ya estoy acostumbrado, pero al principio ver una sonrisa con una encia muy rosada me recordaba al diablo.
+
+## Sobre la madurez
+Como es posible que tras 30 años de experiencias individuales completamente unicas una de los otros las personas encuentren el mismo camino a seguir ?, un patron que remedan todas las personas cuando ya tienen una edad cercana a la adultez.
+Todos quieren tener una casa, una pareja e hijos, un empleo estable y seguro, tener un coche con su garaje privado, estar cerca de la familia, comportarse mas seriamente, ver con ojos de sobriedad y seriedad la vida, evitar la jovialidad, evitar la ridicules, sentir infantil los juegos.
+Pero pareciería que todo esto fuera dificil de ver en todas las personas, al fin y al cabo, cada uno de nosotros hemos pasado por experiencias muy diferentes que construyen una personalidad, pensamientos, costumbres distintas que nos hace unicos.
+Y sin emmbargo no es dificil tener todos ese mismo patron, es mas, es la regla...
+A este patron lo llaman Madurez, y se nos inculca desde nuestro primer pensar que así es como debemos comportarnos al llegar a la adultez, a los 30 años ya debemos MADURAR.
+Y la mayoría esta convencido que es su desicion ser asi, pero no.
+Esto patron surgiría a lo largo de los años gracias a la sociedad que vio que las personas a llegar a cierta edad no saben que hacer con sus vidas, y se pierden por el camino derrochando su fortuna y malgastando su salud en cosas que no les dará un buen futuro.
+Y es sano como sociedad tener un camino predeterminado para aquel que no sabe que hacer con su vida cuando llegue el momento de ser responsable de si mismo, asi el indesiso puede optar por usar este patron y asegurarse un futuro prospero y con más alegrias que tristezas.
+Pero para los que si saben donde ir y que camino les puede ser conveniente para su vida esto patron no les sirve, les es contraproducente pues renuncian a seguir su virtud y tener experiencias excelsas, y en cambio usar un patron prederterminado que les asegura vivir por mucho tiempo pero sin lograr nada que les llene su espiritu.
+Y ahora el problema surge cuando el que si tiene una idea de donde ir se le ha convencido desde pequeño de que tiene que MADURAR a cierta edad, pues sin quererlo les hace alejarse de su camino.
+Yo quiero madurar?, definitivamente no. Yo no espero jamas volverme monotono y aburrido, cansado y agobiado de la vida, contentandome con mis propiedades y deprimido por lo poco que tengo a final de mes. Mi vida si es que la puedo seguir guiando por donde quiero ( ya que mi futuro es incierto y puede que algo o alguien me haga cambiar de direccion ) no será la madures sino algo muy contrario a esta, seré inmaduro me comportaré como un niño, jugaré todo el tiempo con todo y con todos.
