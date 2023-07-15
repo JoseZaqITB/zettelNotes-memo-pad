@@ -5,4 +5,4 @@ author: yoseyus
 source: 
 ---
 # David pavon - si me ves llorar
-$F^4 C^4$ A#^4^ F<sub>4</sup>
+$F<sup>4</sup> C<sup>4</sup> A#<sup>4</sup> F<sup>4</sup>
