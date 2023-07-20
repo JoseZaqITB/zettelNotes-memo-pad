@@ -26,4 +26,24 @@ Dm<sup>4</sup> Am<sup>4</sup> A#<sup>4</sup> C<sup>4</sup>
 F<sup>4</sup>
 
 
+## my voice version
+A<sup>4</sup> E<sup>4</sup> D<sup>4</sup> A<sup>4</sup>
+
+F#m<sup>2</sup> E<sup>2</sup> D<sup>2</sup> A<sup>2</sup>
+
+Bm<sup>4</sup> E<sup>2</sup> E/B<sup>2</sup> X2
+
+CORO:
+
+A<sup>4</sup> E<sup>4</sup> D<sup>4</sup> A<sup>4</sup> X2
+
+E<sup>4</sup>
+
+A<sup>4</sup> F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup>
+
+E<sup>4</sup> A<sup>4</sup> F#m<sup>4</sup> C#m<sup>4</sup>
+
+F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup> E<sup>4</sup>
+
+A<sup>4</sup>
 
