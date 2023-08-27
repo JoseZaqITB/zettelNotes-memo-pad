@@ -1,0 +1,65 @@
+---
+title: Plan de instruccion
+tags: militar
+author: yoseyus
+source: https://github.com/JoseZaqITB/zettelNotes-memo-pad.git
+---
+# Historia del plan de instruccion
+- Correr con el comandante 25km
+- Deporte en el estadio de la etesda
+- primera mojada en el beat box
+- maniobras de combate por la zona frente a la ume
+- 1er dia de asilamiento
+- montar el motor de gasolina
+- dormir en los contenedores con mucho frio
+- guardias nocturnas
+- 1er castigo del camarena en la noche
+- pista de silencio 
+- cambiarse la ropa mojada en el contenedor 
+- comer en el contenedor ( cartones, desayunos con la leche caliente)
+- tender la ropa en el contenedor de basura
+- finde de nrbq y la mojada amistosa del primero
+- presentarse al capitan
+- la pateada con 3 bajas ( almelloneh, divi, helena)
+- las fugas a las taquillas
+- clases llenas de mierda
+- pateada con brujula en epila y otros ( 1era de dia en la antena y los molinos, una nocturna en caminos raros y la laguna alado)
+- cuando fui a cagar y no me pillaron donde cague, y le cogieron el fusil al sevilla
+- pequeñas heridas en las manos te dejaban inutil para cualquier cosa
+- uso frecuente de la gaza blanca esta
+- finde de campamento alado de mi habitacion
+- promesa de visitar al cremades en su nueva casa con su novia
+- Jaca:
+    - primera impresion al salir del bus y coger maleta y radio
+    - caminata con el vilariño tranquila...hasta la noche
+    - helena cayendose y quejandose en el agua
+    - llegada a el primer punto muy alto en la montaña y dormir en una poncheada horrible
+    - despertar, alistar maleta, idea de meter la radio en mochila
+    - caminata con mucha nieve, perdida del camino
+    - helena, lopez y yo  con la basura
+    - poncho de emergencia y el sevilla con hipotermia
+    - poncheada friolenta con carpas dotadas de emergencia y el fariza comiendo americana
+    - reptar en la mañana con camarena
+    - ir por el rio dirigido por sanse, bajar a un valle rodeado de montañas
+    - noche de soledad
+    - dirijo la pateada, llegar a montar un god en la nieve
+    - dormir y ser el estaquero ( de estacas)
+    - pensar mucho en los q me quieres y como me tratan ( finguen tratar) los mandos mientras monto con iago los bloques de hielo
+    - risas en el rio con el camarena, guardar camas, cantar en formacion y subir al bus
+    - lavar coches en el eada
+    - comida con pizza en las taquillas
+    - ducha caliente milenaria en los baños de las taquillas
+- semana de tiro
+    - disparo en san gregorio con pistola y fusil, incomodo los guantes y las gafas, tenia la correa de cuero
+    - 1er lanzada de botella de agua en la cabeza del primero gallego en formacion
+    - disparo con nocturnas y disparo de las minimi y la calibre 100
+    - limpiar armamento en el cuarto ese
+    - salir todas las mañanas cantando desde armeria
+    - levantarte del cuarto e ir en el coche del iago a ese frio horrible de camino a armeria, peleas de los que no llegan a tiempo 
+    - pintarse en el espejo ya armado con el chaleco ese y el uniforme
+    - comer como imbeciles e ir con sevilla a esa panaderia de las palmeras de chocolate blanco y los churros, devorar el a400
+    - dentro del camion camino a san gregorio, todos agotados, algunos con comida.
+    - pista de aplicacion ( iago hundido totalmente en el beatbox)
+    - pista de estres
+    - cargar las cosas para kukalloh
+    - descanzar el fin de en casa, con unos nervios horrorosos mientras estaba acostado de no saber cuando nos llamaran
