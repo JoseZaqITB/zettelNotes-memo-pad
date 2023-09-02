@@ -48,7 +48,10 @@ F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup> E<sup>4</sup>
 A<sup>4</sup>
 
 # suprema corte - nunca podre
-F<sup>4</sup>
-Am<sup>4</sup>
-Gm <sup>4</sup>
+D<sup>4</sup> F#m<sup>4</sup>
+G<sup>2</sup> F#m <sup>2</sup> Em <sup>2</sup> A<sup>2</sup>
+
+Coro:
+D<sup>2</sup> A<sup>2</sup> Bm<sup>2</sup> F#m<sup>2</sup>
+G<sup>2</sup> F#m<sup>2</sup> Em<sup>2</sup> A<sup>2</sup>
 
