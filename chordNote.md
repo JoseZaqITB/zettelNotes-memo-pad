@@ -47,3 +47,8 @@ F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup> E<sup>4</sup>
 
 A<sup>4</sup>
 
+# suprema corte - nunca podre
+F<sup>4</sup>
+Am<sup>4</sup>
+Gm <sup>4</sup>
+
