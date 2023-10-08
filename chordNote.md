@@ -55,3 +55,7 @@ Coro:
 D<sup>2</sup> A<sup>2</sup> Bm<sup>2</sup> F#m<sup>2</sup>
 G<sup>2</sup> F#m<sup>2</sup> Em<sup>2</sup> A<sup>2</sup>
 
+Daisy coro:
+G<sup>2</sup> D<sup>2</sup> Em<sup>2</sup> Bm<sup>2</sup>
+C<sup>2</sup> Bm<sup>2</sup> Am<sup>2</sup> D<sup>2</sup>
+
