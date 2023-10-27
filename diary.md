@@ -209,3 +209,7 @@ Asi fue como termine en una calle sin gente alrededor, alado de una ventana que 
 Pero en ese momento me cogieron los nervios, esos nervios que siempre sentia cuando me acercaba a besar a alguien. Me senti tan nervioso de acercarme a ella y que no lo pudiera hacer bien mientras su amiga nos veia. Y no pude con eso, le quite la mirada de sus ojos, hagache la cabeza y dije "no, no quiero, no se porque me hacen hacer esto" y me fui de ahi caminando, ellas solo se quedaron ahi seguramente viendome como me iba.
 Y desde ahi, "mi canon", no me atrevo a besar a alguien en frente de alguien mas. No me atrevo a ligar con las palabras a una chica, y si logro gustar a alguien me resulta imposible acercarme a ella por mas que ella me de claras señales de que me va a dejar hacerlo, y todo por un beso.
 Me pregunto que mujeres se hubiesen metido en mi vida si tan solo hubiera decidido bien en ese momento. 
+
+## Dolores del Alma otra vez
+Que es lo que sucede?. Exactamente qué es lo que me disparaba en el pecho y me destroza todo por dentro?. Puede ser el monstruo del no tener a nadie con quién hablar de mis cosas, o el sentirme que nadie me desea, o puede ser el imposible de relacionarme con la gente de manera cómoda. O tal vez estos monstruos han sido expulsados del embrión de otro más grande que no conozco?.
+Ahora que lo tengo todo para mí 
