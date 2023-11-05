@@ -143,6 +143,7 @@ $año n = primerAño * \sqrt[n]{1 + crecimiento}$
 - pasivo:
     - deuda a L.P : < 4XbeneficioNeto
     - prima de emision: - no debe aumentar mucho cada año.es el exeso que se paga por el sobreprecio de una accion.  Empresas que aumentan las acciones tienen mucho de esto. ej. tesla
+- patrimonio: 
     - reservas acumuladas: + acumulacion de efectivo. Se decrece es malo.
     - acciones propias: - compra de sus propias acciones. aumenta el valor de las acciones, accion que hacen las buenas empresas.
     - patrimonio neto: si es negativo, se debe colocar las acciones propias en + y volver a sumar. eso crea el patrimonio neto corregido.
