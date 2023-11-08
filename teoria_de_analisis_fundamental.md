@@ -152,3 +152,7 @@ $año n = primerAño * \sqrt[n]{1 + crecimiento}$
 - gastos operativos en gestion, administracion: debe manternerse lo mas constante posible en el tiempo. Son costes de transporte, alquiler, servicios basicos.  
 - beneficio neto: >10%, y con un crecimiento constante
 ![](valoresBuenosRatios.jpg)
+
+## Bolsas de Valores
+- XET: exchange electronic trading
+- TDG: tradegate ( Europa )
