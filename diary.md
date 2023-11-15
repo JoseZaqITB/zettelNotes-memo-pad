@@ -221,4 +221,8 @@ Pero también tengo presente que, antes de que llegara a esa casa en Barcelona, 
 O tal vez se remonte más atrás, en el colegio nueva primavera, donde me rodeaba puro niño con ganas de meterse en pandillas, donde mis ideas tan inocentes no encajaban y sufría muchos golpes que para todos eran una forma de socializar y bromear, pero para mí era algo serio y humillante.
 O llendo un poco más atrás, cuando en último grado de escuela un niño decidió pegarme por maldad genuina, por crear conflicto, y yo me opuse a regresar el golpe, siendo un canon para mí personalidad futura.
 O tal vez la interacción con el gato y las historias que me contaba sobre su vida en el colegio hizo que creamos juntos dos roles para cada uno, siendo uno diferente al otro, siendo el el sociable y yo el menos sociable.
-En fin, que no tengo claro cuál fue mi base 
+En fin, que no tengo claro cuál fue mi base
+
+## Mi corazon no sabe que quiere
+Me entusiasma el hecho de tener una pareja, no voy a mentir, pero al mismo tiempo me angustia.
+Quiero que alguien me haga emocionar de despertarme en la mañana y coger el móvil para ver unos buenos días. Quiero que alguien le haga cumplidos a mi ser, "eres una persona maravillosa", "eres lo más bonito que ma ha pasado", "solo pienso en ti". Quiero que al estar enfermo o tener mi alma debilitada llamar a alguien que enrralidad se preocupe por mí y que me alivie el sufrimiento. Quiero que mi vida se mezcle con la vida de otra persona a tal punto que los hilos de esas historias se crucen tanto que no se puedan separar jamás. Quiero liberar este bulto de ganas de amar, proteger, consolar. Quiero sentir una confianza infinita con alguien a tal punto que le confiere todos mis más pesados miedos sin siquiera preocuparme en lo que pensara de mi.
