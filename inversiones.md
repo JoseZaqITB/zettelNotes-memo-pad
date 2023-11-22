@@ -13,6 +13,6 @@ Se colocará un 45% obligaciones, 45% acciones y 10% especular
 Fecha inicio: septiembre 2023
 
 ## Acumulaciones
-Obligaciones: 113.04 * 2
-Acciones: 113.04 * 2
-Especular: 25.12 * 2
+Obligaciones: 113.04 * 3
+Acciones: 113.04 * 3
+Especular: 25.12 * 3
