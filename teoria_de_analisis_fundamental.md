@@ -156,3 +156,35 @@ $año n = primerAño * \sqrt[n]{1 + crecimiento}$
 ## Bolsas de Valores
 - XET: exchange electronic trading
 - TDG: tradegate ( Europa )
+
+# Pasos para el análisis por Financial master
+1. Nombre empresa, lugar, bolsa, nicho, segmentos de negocio( en algún estado se ve )
+2. Detalles de su nicho
+3. Ventajas y desventajas competitivas
+4. Ceo y inversiones principales. Quien es, porque está ahí, salario. 
+5. Dividendos?, recompra de acciones?
+6. Ratios de liquidez-solvencia. % deuda y con el fcf cuanto tiempo pagará deuda.
+7. % crec. Patrimonio, Retenciones, # acciones
+8. Estado resultados: % crec. Ingresos, mgn. Bruto, % de investigación y mrg. Operativo.,%  de ingresos financieros con ventas y % crec. .mrgn. neto
+9. Estados de flujo: % capex (activ. De inversion), recompra inv. y emisión de ventas.
+10. Graficas de 10años: EPS, Free c.f.,
+11. Free cash flow/acción, ROE y comp. Con su nicho
+12. Cotizacion actual, % crec. anual, volatilidad
+13. Per prom. Y Eps. Precio calculado de cotización y analizar sobrevaloracion.
+14. % crec. Anual *2+8.5 = PER. PER * EPS precio estimado y evaluar sobrevaloracion
+15. Precio futuro: PER *EPS FUTURO
+16. Descuentos de flujo de caja: 
+ - fcf actual
+ - % crec. Medio
+ - tasa descuento bono americano de 30años
+ - per estim. 10 años
+ - valor intrínseco comp. con el valor actual 
+ 17. conclusiones
+  - ventajas competitivas
+  - riesgo
+  - gestion
+  - margen de seg.
+  - fortaleza fínanciera
+  - rentabilidad
+  - perspectivas futuras
+  - conclusión
