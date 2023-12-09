@@ -20,6 +20,8 @@ cuando se vaya a hacer inversiones a largo plazo.
 - liquidez: que tiene efectivo sobrante para cubrir pagos o deudas.
 - inventario: productos fisicos de la empresa, ej. 1000 hamburguesas en Burguer King 
 - apalancamiento: cuanta deuda esta usando para ganar dinero
+- holding: sociedad que gestiona la propiedad de otras sociedades. Dentro hay la matriz y los filiales
+- filial: sociedad que es controlada por una matriz( sociedad controladora)
 ## Ratios
 - EBITDA: earnings before interest, taxes, depreciations and amortizations
 - EBIT: earnings before interest, taxes
@@ -66,10 +68,10 @@ cuando se vaya a hacer inversiones a largo plazo.
 - Return on Equity (ROE): +
     - POR 1USD de patrimonio, cuanto USD de beneficio se obtuvo 
     - beneficio Neto / patrimonio
-- Net Profit Margin ( NPM ):
+- Net Profit Margin ( NPM ): +
     - cuanto de lo que se vende es realmente ganancia?
     - beneficio neto / ventas
-- Operative Margin ( OP ):
+- Operative Margin ( OP ): +
     - cuanto gasta para generar ganancia ?
     -Beneficio Operativo / ventas
 ### De Valuacion
@@ -150,6 +152,7 @@ $año n = primerAño * \sqrt[n]{1 + crecimiento}$
     
 #### estado de resultados
 - gastos operativos en gestion, administracion: debe manternerse lo mas constante posible en el tiempo. Son costes de transporte, alquiler, servicios basicos.  
+- beneficio bruto: >20% estabilidad 
 - beneficio neto: >10%, y con un crecimiento constante
 ![](valoresBuenosRatios.jpg)
 

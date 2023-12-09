@@ -14,5 +14,5 @@ Fecha inicio: septiembre 2023
 
 ## Acumulaciones
 Obligaciones: 113.04 * 3
-Acciones: 113.04 * 3
+Acciones: 113.04
 Especular: 25.12 * 3
