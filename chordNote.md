@@ -62,3 +62,9 @@ Coro:
 G<sup>2</sup> D<sup>2</sup> Em<sup>2</sup> Bm<sup>2</sup>
 C<sup>2</sup> Bm<sup>2</sup> Am<sup>2</sup> D<sup>2</sup>
 
+# tu recuerdo en un cigarrillo
+Dm<sup>4</sup> A#<sup>4</sup> C<sup>4</sup>
+Coro:
+A#<sup>4</sup> C<sup>4</sup> F<sup>4</sup>
+
+
