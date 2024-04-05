@@ -67,4 +67,5 @@ Dm<sup>4</sup> A#<sup>4</sup> C<sup>4</sup>
 Coro:
 A#<sup>4</sup> C<sup>4</sup> F<sup>4</sup>
 
+# porque te vas 
 
