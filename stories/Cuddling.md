@@ -1,0 +1,5 @@
+---
+title: cuddling
+---
+El día duraba lo que durará estar con ella acostado en la misma cama.
+El primer día conversamos un rato y luego nos pusimos a dormir respetando el espacio de cada uno. El siguiente día, en las miradas, se sentía el deseo de invadir el espacio del otro y nos estrechamos en la cama un poco. El siguiente tome la desición no consciente sino instintivo de acercarme a ella y acomodar mi cabeza en su brazo, que estaba de tal forma que su mano estaba debajo de su cabellera y su codo apuntándome; ella, impulsivamente, colocó su pierna encima de mi cintura, la piel se erizaba y mi cuerpo se desvanecía en la cama, estaba en trance con los ojos cerrados y sintiendo el calor de su cuerpo. El siguiente día le di la espalda y me acerque, ella me abrazó y me changó mientras empezaba a decirme cosas bonitas en la oreja, como si fuera un niño a quien mimar y volví a estar en trance.
