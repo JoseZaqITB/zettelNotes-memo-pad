@@ -8,3 +8,7 @@ title: trucos pa evitar comer
 - *Joan*: últimamente esos trucos no me están funcionando. Así que nada, voy a probar algo, como mi mami dice que no me voy de la mesa si no como, voy a traer una almohada y voy a dormirme hasta que me deje ir.  Que es lo peor que puede pasar. 
 - *Deisy*: me va tocar darle su carajazo, a ver qué tengo a mano pa tronar esas nalgas.
 - *Joan*: Mi mami no me ha pegado nunca. ( b-roll de mocos entrenando como dar correazos, y boxeo noqueando a su hermano) y no creo que quiera hacerlo ahora. Aparte a mi no me duele nada. Bueno me llaman a comer deseenme suerte.
+
+No se que hacer con el mocoso
+Me se todos sus trucos
+Me va tocar tronarle las nalgas
