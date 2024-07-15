@@ -9,6 +9,14 @@ title: trucos pa evitar comer
 - *Deisy*: me va tocar darle su carajazo, a ver qué tengo a mano pa tronar esas nalgas.
 - *Joan*: Mi mami no me ha pegado nunca. ( b-roll de mocos entrenando como dar correazos, y boxeo noqueando a su hermano) y no creo que quiera hacerlo ahora. Aparte a mi no me duele nada. Bueno me llaman a comer deseenme suerte.
 
+
+J
+
+J
+
+J
+
+
 No se que hacer con el mocoso
 Me se todos sus trucos
 Me va tocar tronarle las nalgas
