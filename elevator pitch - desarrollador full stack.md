@@ -9,6 +9,6 @@ Si te parece interesante y te gustaría contactar conmigo o saber más de mi te 
 
 # Game Programmer 
 Imserte afirmación. 
-Soy José Zaquinaula, programador de aplicaciones multiplataforma y desarrollo el código de un videojuego. Ayudo a los equipos que desarrollan productos de calidad pero necesitan  personal capacitado para hacerlo. Al unirme a su equipo aporto capacidad, creatividad, innovación y soluciones para desarrollar el código necesario para un videojuego, siguiendo estandares y colaborando con el equipo de manera eficaz.
+Soy José Zaquinaula, desarrollador de software, y ayudo a las empresas o personas en la implementación del código de un videojuego. Ayudo a los equipos que desarrollan videojuegos y que necesitan  personal capacitado para hacerlo. Al unirme a su equipo aporto capacidad, creatividad, innovación y soluciones para desarrollar el código necesario para un videojuego, siguiendo estandares y colaborando con el equipo de manera eficaz.
 Lo que hago es utilizar mis conocimientos que he adquirido como programador a lo largo de los casi 7 años como desarrollador de aplicaciones multiplataforma habiendome especializado recientemente en el área de los videojuegos.
 Si te parece interesante y te gustaría contactar conmigo o saber más de mi te ofrezco mi LinkedIn y página web
