@@ -1,12 +1,12 @@
 # En la Bolera
 Dentro de una base aerea sentados en una mesa de una bolera esperando que esté la comida juntos a unos amigos que  no ha visto hace tiempo, dentro del grupo está Regina, la chica amiga de sus amigos y que ahora a vuelto de una mision. Él se siente atraido por ella y no puede evitar decirselo a todo el mundo.
-Juaquin: Es que ese el problema, que a mi me gustan todas. Cada que paso por una calle me enamoró de una mujer, y no solo de mi edad sabes. Es que para mí todas son lindas y no tengo ni que elegir, cualquiera me puede llegar a enamorar.
+Juaquin: Es que ese el problema, que a mi me gustan todas. Cada que paso por una calle me enamoró de una lady, y no solo de mi edad sabes. Es que para mí todas son lindas y no tengo ni que elegir, cualquiera me puede llegar a enamorar.
 Vero: "vale pero..."
-Juaquin: "tu por ejemplo", lo casi grito señalando a Vero. "Tu me gustaste la primera vez que te ví. Esa pinche cara toda guapa que tienes, parecías un angel de ojos penetrantes color del cielo, y cuando hablaste con ese acento canario buaa, me volaste la mente."
+Juaquin: "tu por ejemplo", lo casi grito señalando a Vero. "Tu me gustaste la primera vez que te ví. Esa pinche cara toda guapa que tienes, parecías un angel con esos ojos penetrantes color del cielo, que tu no lo notas porque son tus ojos pero hipnotizas con ellos.Y cuando hablaste con ese acento canario buaa, me volaste la mente."
 Vero: "quee!, es enserioo?!"
 Juaquin: "si claro hazte la sorprendida", dijo voltenadole los ojos. "Si cada vez que conoces a un hombre luego este está deshagondose con nosotros diciendonos lo hermosa que eres y demás cursilerias. Y no me creo eso de que no te das cuenta"
 Vero: "pero si yo no me doy cuenta es verdaad!"
-Juaquin: "si claro. Volviendo a lo que decía, me gustabas y me ilusionaba mucho hablar contigo por chat, pero ya el tiempo ayuda a ver lo mortal que son ustedes, por que no, no  es como me lo hacen creer al principio, no son angeles, son pinches demonios con un disfraz carisimo".
+Juaquin: "si claro. Volviendo a lo que decía, me gustabas y me ilusionaba mucho hablar contigo por chat la verdad, pero por suerte el tiempo ayuda a ver lo mortal que son ustedes, por que no, no  es como me lo hacen creer al principio, no son angeles, son pinches demonios con un disfraz carisimo".
 Vero y Regina se comienzan a reir, y Juaquin toma conciencia de Regina.
 Juaquin: "mira, ahora mismo Regi me encanta".
 Se crea un silencio incomodo en la mesa, pero Juaquin lo hace aproposito para dar mas intensidad a lo que quiere decir.
