@@ -1,0 +1,25 @@
+--- old
++++ new
+@@ -50,0 +50,2 @@
++## my voice version
++A<sup>4</sup> E<sup>4</sup> D<sup>4</sup> A<sup>4</sup>
+@@ -51,0 +53,1 @@
++F#m<sup>2</sup> E<sup>2</sup> D<sup>2</sup> A<sup>2</sup>
+@@ -52,0 +55,1 @@
++Bm<sup>4</sup> E<sup>2</sup> E/B<sup>2</sup> X2
+@@ -53,0 +57,15 @@
++CORO:
++
++A<sup>4</sup> E<sup>4</sup> D<sup>4</sup> A<sup>4</sup> X2
++
++C<sup>4</sup>
++
++A<sup>4</sup> F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup>
++
++E<sup>4</sup> A<sup>4</sup> F#m<sup>4</sup> C#m<sup>4</sup>
++
++F#m<sup>4</sup> C#m<sup>4</sup> D<sup>4</sup> E<sup>4</sup>
++
++A<sup>4</sup>
++
++

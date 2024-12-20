@@ -1,0 +1,27 @@
+--- old
++++ new
+@@ -41,0 +41,1 @@
++F<sup>4</sup> C<sup>4</sup> A#<sup>4</sup> F<sup>4</sup>
+@@ -42,0 +43,10 @@
++Dm<sup>2</sup> C<sup>2</sup> A#<sup>2</sup> F<sup>2</sup>
++
++Gm<sup>4</sup> C<sup>2</sup> C/G<sup>2</sup> X2
++
++CORO:
++
++F<sup>4</sup> C<sup>4</sup> A#<sup>4</sup> F<sup>4</sup> X2
++
++E<sup>4</sup>
++
+@@ -50,0 +61,1 @@
++F<sup>4</sup> Dm<sup>4</sup> Am<sup>4</sup> A#<sup>4</sup>
+@@ -51,0 +63,1 @@
++C<sup>4</sup> F<sup>4</sup> Dm<sup>4</sup> Am<sup>4</sup>
+@@ -52,0 +65,1 @@
++Dm<sup>4</sup> Am<sup>4</sup> A#<sup>4</sup> C<sup>4</sup>
+@@ -53,0 +67,5 @@
++F<sup>4</sup>
++
++
++
++

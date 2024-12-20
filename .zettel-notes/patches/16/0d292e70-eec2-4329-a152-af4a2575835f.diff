@@ -1,0 +1,12 @@
+--- old
++++ new
+@@ -172,1 +172,8 @@
+-12. Cotizacion
++12. Cotizacion actual, % crec. anual, volatilidad
++13. Per prom. Y Eps. Precio calculado de cotización y analizar sobrevaloracion.
++14. % crec. Anual *2+8.5 = PER. PER * EPS precio estimado y evaluar sobrevaloracion
++15. Precio futuro: PER *EPS FUTURO
++16. Descuentos de flujo de caja: 
++ - fcf actual
++ - % crec. Medio
++ - tasa descuento bono americano 

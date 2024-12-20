@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -23,0 +23,2 @@
++- holding: sociedad que gestiona la propiedad de otras sociedades. Dentro hay la matriz y los filiales
++- filial: sociedad que es controlada por una matriz( sociedad controladora)

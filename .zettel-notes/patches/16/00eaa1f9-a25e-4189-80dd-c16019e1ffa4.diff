@@ -1,0 +1,6 @@
+--- old
++++ new
+@@ -172,1 +172,2 @@
+-12. Cotizacion
++12. Cotizacion actual, % crec. anual, volatilidad
++13. Per prom. Y Eps. Precio calculado de cotización 

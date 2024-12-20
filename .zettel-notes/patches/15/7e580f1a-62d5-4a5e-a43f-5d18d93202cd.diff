@@ -1,0 +1,9 @@
+--- old
++++ new
+@@ -16,3 +16,3 @@
+-Obligaciones: 113.04 * 2
+-Acciones: 113.04 * 2
+-Especular: 25.12 * 2
++Obligaciones: 113.04 * 3
++Acciones: 113.04 * 3
++Especular: 25.12 * 3

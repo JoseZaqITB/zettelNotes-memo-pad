@@ -1,0 +1,25 @@
+--- old
++++ new
+@@ -51,6 +51,3 @@
+-D<sup>4</sup>
+-F#m<sup>4</sup>
+-G<sup>2</sup>
+-F#m <sup>2</sup>
+-Em <sup>2</sup>
+-A<sup>2</sup>
++D<sup>4</sup> F#m<sup>4</sup>
++G<sup>2</sup> F#m <sup>2</sup>
++Em <sup>2</sup> A<sup>2</sup>
+@@ -59,8 +56,4 @@
+-D<sup>2</sup>
+-A<sup>2</sup>
+-Bm<sup>2</sup>
+-F#m<sup>2</sup>
+-G<sup>2</sup>
+-F#m<sup>2</sup>
+-Em<sup>2</sup>
+-A<sup>2</sup>
++D<sup>2</sup> A<sup>2</sup>
++Bm<sup>2</sup> F#m<sup>2</sup>
++G<sup>2</sup> F#m<sup>2</sup>
++Em<sup>2</sup> A<sup>2</sup>
