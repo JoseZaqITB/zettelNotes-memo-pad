@@ -1,0 +1,14 @@
+--- old
++++ new
+@@ -49,2 +49,4 @@
+-- Create interactable items based on design
+-- Work with the team for the GDD and agile planning   
++- Work in the phase of prototyping, development, production and documentation
++- Create interactable player items based on design
++- Implement the AI 
++- Work with a team for the GDD and agile planning 
+@@ -54,1 +56,1 @@
+-[A 2D Game Engine](https://gitlab.com/JoseZaq/juegoSolar) was created from scratch in order to understand how graphics works
++[A 2D Game Engine](https://youtu.be/vhhoSKIeNKA?si=y1NT-3FnYnjBCrLK) was created from scratch in order to understand how graphics works
+@@ -59,0 +61,1 @@
++- Develop a basic artificial intelligence for enemies 

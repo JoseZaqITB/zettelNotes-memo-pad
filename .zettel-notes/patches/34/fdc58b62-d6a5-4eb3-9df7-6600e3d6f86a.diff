@@ -1,0 +1,12 @@
+--- old
++++ new
+@@ -49,0 +49,1 @@
++- make  prototyping
+@@ -50,1 +51,1 @@
+-- Work with the team for the GDD and agile planning   
++- Work with a team for the GDD and agile planning 
+@@ -54,1 +55,1 @@
+-[A 2D Game Engine](https://gitlab.com/JoseZaq/juegoSolar) was created from scratch in order to understand how graphics works
++[A 2D Game Engine](https://youtu.be/vhhoSKIeNKA?si=y1NT-3FnYnjBCrLK) was created from scratch in order to understand how graphics works
+@@ -59,0 +60,1 @@
++- Develop a basic artificial intelligence for enemies 
