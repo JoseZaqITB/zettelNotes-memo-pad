@@ -1,0 +1,14 @@
+--- old
++++ new
+@@ -60,1 +60,1 @@
+-**Generalist Programmer: A React Game**
++**Generalist Programmer: Cooperative Video game**
+@@ -62,4 +62,4 @@
+-[A React Game](https://gitlab.com/JoseZaq/a-react-game) is a game for web using React
+-- Understand a different arquitecture for making games
+-- Start debugging 
+-- Implement code for player animation and movement
++[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a game build in unreal engine using blueprint.
++- Develop the script to connect players to the server
++- Design interactive items that makes the game cooperative
++- 

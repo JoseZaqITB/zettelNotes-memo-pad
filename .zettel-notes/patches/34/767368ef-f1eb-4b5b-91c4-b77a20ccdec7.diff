@@ -1,0 +1,7 @@
+--- old
++++ new
+@@ -64,2 +64,2 @@
+-- Design interactive items that makes the game cooperative
+-- Design level
++- Design interactive items with a particular action ( change player team, open gates, create objects )
++- Design a level using items in a way that the players in the server has to cooperate

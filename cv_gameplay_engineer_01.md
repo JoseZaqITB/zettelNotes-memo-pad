@@ -57,12 +57,12 @@ Software Engineer with experience in cross-platform application development seek
 - Create a tool for tile-map creation 
 - Implement code for player animation, movement and interaction 
 
-**Generalist Programmer: A React Game**
+**Generalist Programmer: Cooperative Video game**
 
-[A React Game](https://gitlab.com/JoseZaq/a-react-game) is a game for web using React
-- Understand a different arquitecture for making games
-- Start debugging 
-- Implement code for player animation and movement
+[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a game build in unreal engine using blueprint.
+- Develop the script to connect players to the server
+- Design interactive items with a particular action ( change player team, open gates, create objects )
+- Design a level using items in a way that the players in the server has to cooperate
 
 ## Professional Experience
 ---
