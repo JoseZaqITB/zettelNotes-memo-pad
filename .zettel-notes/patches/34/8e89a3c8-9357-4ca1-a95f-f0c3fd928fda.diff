@@ -1,0 +1,7 @@
+--- old
++++ new
+@@ -63,2 +63,2 @@
+-[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a game build in unreal engine using blueprint.
+-- Develop the script to connect players to the server
++[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a networked gameplay build in unreal engine using blueprint.
++- Develop a networked gameplay, connect two players in a local network using unreal engine commands

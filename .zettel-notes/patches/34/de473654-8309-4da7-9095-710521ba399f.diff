@@ -1,0 +1,5 @@
+--- old
++++ new
+@@ -66,1 +66,1 @@
+-- Discover the way to develop a user interface to customize  keys  for playing with Blueprint 
++- Discover the way to develop a user interface to customize the keyboard keys with Blueprint 

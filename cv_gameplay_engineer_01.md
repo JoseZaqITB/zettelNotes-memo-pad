@@ -45,8 +45,7 @@ Software Engineer with experience in cross-platform application development seek
 
 [Code: Eye gem](https://github.com/ArBeemo/Code_EyeGem) is an adventure RPG build in Unreal Engine 
 
-- Implement  user interfaces ( menu system and HUD )
-- solve problems, 
+- Develop user interfaces ( menu system and HUD )
 - Create interactable items based on design
 - Work with the team for the GDD and agile planning   
 
@@ -60,10 +59,11 @@ Software Engineer with experience in cross-platform application development seek
 
 **Generalist Programmer: Cooperative Video game**
 
-[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a game build in unreal engine using blueprint.
-- Develop the script to connect players to the server
+[Cooperative Video Game](https://youtu.be/x52B7i9lDeU?si=wF73eQ15sVi1oAVK) is a networked gameplay build in unreal engine using blueprint.
+- Develop a networked gameplay, connect two players in a local network using unreal engine commands
 - Design interactive items with a particular action ( change player team, open gates, create objects )
 - Design a level using items in a way that the players in the server has to cooperate
+- Discover the way to develop a user interface to customize the keyboard keys with Blueprint 
 
 ## Professional Experience
 ---
