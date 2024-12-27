@@ -45,7 +45,8 @@ Software Engineer with experience in cross-platform application development seek
 
 [Code: Eye gem](https://github.com/ArBeemo/Code_EyeGem) is an adventure RPG build in Unreal Engine 
 
-- Implement UI systems ( menu system and HUD )
+- Implement  user interfaces ( menu system and HUD )
+- solve problems, 
 - Create interactable items based on design
 - Work with the team for the GDD and agile planning   
 
