@@ -11,7 +11,7 @@
 ## Summary
 ---
 Software Engineer with experience in cross-platform application development seeking to get involved in game development.
-I am eager to explore the diferent areas of the game development as a gameplay Enginner and put all my skills to use while also learning from industry professionals to grow into a excellent Gameplay Engineer.
+I am eager to explore the different areas of the game development as a gameplay Enginner and put all my skills to use while also learning from industry professionals to grow into a excellent Gameplay Engineer.
 
 ## Skills
 ---
