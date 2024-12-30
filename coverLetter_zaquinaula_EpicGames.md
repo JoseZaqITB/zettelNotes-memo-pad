@@ -2,10 +2,10 @@
 title: coverLetter_zaquinaula_EpicGames
 ---
 Dear Hiring Manager
-I'm eager to get involved in the game industry world, I'm recently finished a one year course about videogames. There are web, app, systems, network, cyber security, videogames and others I may not know. And I feel videogames is the one for me. Since a child I was doing animations, telling stories about my friends just for see him laugh. Then I tried to make videogames, with Adobe flash, but I  knew nothing about programming in that moment. So this industry is familiar for me.
+I'm eager to get involved in the game industry world, I'm recently finished a one year course about videogames. There are web, app, systems, network, cyber security, videogames and others I may not know. And I feel videogames is the one for me. Since I was a child I was doing animations, telling stories about my friends, then showing them and  see them laugh. Then I tried to make videogames, with Adobe flash, but was difficult in that time for me. Now in my free time, after entering in the programming world, I've made animations with blender, and a few games in Java, Js and  Unreal Engine
 
-Epic games is a big company that made amazing videogames and for me it's an honor to work with it. 
+Epic games is a big company that have made amazing videogames like Fortnite or Gears of Wars franchise and for me it's an honor to work in Epic Games. 
 
-I have good technical skills but I don't know how to make a very good videogame or how it is to be part of it. I would like to have a mentor that guides me in my first steps in the industry, learn about all the programming roles and choose the one for me.
+I have good technical skills but I don't know how to make a very good videogame or how it is to be part of it. I would like to have a mentor that guides me in my first steps in the industry and learn about all the programming roles
 
 
