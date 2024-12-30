@@ -20,27 +20,22 @@ Thanks for giving me your time.
 
 ---
 
-Certainly! Here's a playful, John Cleese-inspired version of your cover letter. Expect some dry wit and whimsical phrasing while keeping it relevant to the role:
+Dear Hiring Manager,
 
-
----
-
-Dear Most Hiring Manager,
-
-I am writing to express my deepest, most unbridled enthusiasm for the Internship Programmer position at Epic Games. In fact, if enthusiasm were a currency, I’d have enough to buy all the V-Bucks in the multiverse. Unfortunately, it isn’t, so here I am, hoping you’ll accept this humble letter as legal tender instead.
+I am writing to express my enthusiasm for the Internship Programmer position at Epic Games. As someone who has always been fascinated by the art and science of creating games, I’m eager to bring my technical skills, creativity, and enthusiasm to your incredible team. Let’s just say, making games at Epic would be a legendary achievement unlocked for me.
 
 My love affair with creating things began as a child when I discovered the magical world of animation. Using Pivot Animator and Adobe Flash, I crafted short, silly stories about my friends, which they found utterly hilarious (or so they told me—I’m sure their laughter was entirely genuine). This sparked an insatiable curiosity about how games and animations are made, leading me to experiment with programming. During my bachelor's degree, I proudly created a tile-based game using Java’s Swing library. It wasn’t Fortnite, mind you, but it worked—and didn’t crash too often, which I considered a triumph.
 
-More recently, I completed a one-year specialization in video game development, where I delved into modern tools and practices. These days, you’ll often find me tinkering away in Unreal Engine, creating games for jams, hackathons, or simply to satisfy my innate need to see things explode in aesthetically pleasing ways. Occasionally, I dabble in Blender animations, though I’ll admit my characters still sometimes move like they’ve had one too many cups of tea.
+Recently, I completed a one-year specialization course in video game development, where I expanded my knowledge of modern game design techniques and tools. Today, I spend much of my free time working with Unreal Engine, creating games for jams, hackathons, or just for fun. Occasionally, I even revisit my animation roots with Blender—though my characters still sometimes move like NPCs with bad pathfinding.
 
-Now, let’s talk about Epic Games. Your titles like Fortnite and the Gears of War franchise have redefined the industry, leaving a trail of dropped jaws and sweaty palms in their wake. Joining your team would be a tremendous honor—and possibly the best excuse I’ll ever have to tell people at parties, “Yes, I work at Epic. No, I can’t get you free skins.”
+Epic Games has been a massive inspiration to me. Whether it’s the groundbreaking gameplay of Fortnite or the action-packed brilliance of the Gears of War franchise, your work has redefined what games can be. Joining your team would not only be a dream come true—it would probably leave me doing a celebratory emote for weeks.
 
-While I have a strong programming foundation, I know there’s much more to learn. I’m keen to gain firsthand experience in the game development process, from scripting to collaborative workflows, all under the guidance of industry veterans. With my enthusiasm, creativity, and willingness to ask ridiculous questions (but only occasionally), I am confident I can make meaningful contributions to your team.
+While I’ve built a strong foundation in programming, I’m eager to learn more about the collaborative processes, tools, and techniques that bring AAA games to life. I’m ready to level up with the guidance of a mentor and to contribute my energy and creativity to support the team in making exceptional products.
 
-Thank you for taking the time to read this letter. I look forward to the opportunity to discuss how I can support Epic Games—and, dare I say, bring just a touch of silliness and charm to the process. After all, every team could use a programmer who knows their way around a punchline as well as a punchcard.
+Thank you for taking the time to read this letter. I look forward to the opportunity to discuss how I can support Epic Games.
 
-Yours irreverently,
-[Your Full Name]
+Sincerely,
+Jose Alejandro Zaquinaula Ramón
 
 
 
