@@ -1,0 +1,13 @@
+--- old
++++ new
+@@ -38,0 +38,2 @@
++
++
+@@ -40,0 +42,7 @@
++
++
++---
++
++Game Developer: Aim and Throw
++- set the physics of the weapons 
++- research 2D tile and map images with the theme for

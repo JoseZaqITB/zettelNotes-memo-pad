@@ -35,5 +35,15 @@ While I have built a strong technical foundation, I am eager to learn the collab
 
 Thank you for considering my application. I look forward to the opportunity to discuss how I can grow with Rare and contribute to its creative vision.
 
+
+
 Sincerely,
 José Alejandro Zaquinaula Ramon
+
+
+---
+
+Game Developer: Aim and Throw
+- set physics for the weapons 
+- research 2D tile and map images according to the game's theme ( medieval ) and Implement them
+- Design and Implement the user interfaces ( menus, HUD )

@@ -1,0 +1,14 @@
+--- old
++++ new
+@@ -38,0 +38,2 @@
++
++
+@@ -40,0 +42,8 @@
++
++
++---
++
++Game Developer: Aim and Throw
++- set physics for the weapons 
++- research 2D tile and map images according to the game's theme ( medieval ) and Implement them
++- Design and Implement the user interfaces ( menus, HUD )
