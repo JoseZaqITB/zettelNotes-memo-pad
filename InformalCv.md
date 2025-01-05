@@ -60,4 +60,6 @@ engines, animations, modellig, rigging, UIs, servers, creativity...
 [stickman with a evil face staring at the sky]
 this is how i get to today, i season where i making programming projects, some apps, some videogames, some challenges. 
 
-
+## CV1
+I'm a software developer with 3+ years of experience, building apps for web, mobile or PC. Recently I finished a videogame specialization course with which I am able to make videogames from scratch with multiple engines like unreal engine or unity.
+I am also very strict with clean code following the rules of a pragmatic programmer, making the projects I'm involve maintainable, scalable, flexible and easy to read.
