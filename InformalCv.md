@@ -63,3 +63,6 @@ this is how i get to today, i season where i making programming projects, some a
 ## CV1
 I'm a software developer with 3+ years of experience, building apps for web, mobile or PC. Recently I finished a videogame specialization course with which I am able to make videogames from scratch with multiple engines like unreal engine or unity.
 I am also very strict with clean code following the rules of a pragmatic programmer, making the projects I'm involve maintainable, scalable, flexible and easy to read.
+
+## CV2
+I'm a software developer eager to find a role in the video game industry. I've worked on videogames in collaboration with a team to bring a realistic gameplay. I've created code with differents arquitectures I always focus in creating a clean code for easy maintenance, flexibility, scalability and easy reading.
