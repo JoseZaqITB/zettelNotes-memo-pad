@@ -65,4 +65,4 @@ I'm a software developer with 3+ years of experience, building apps for web, mob
 I am also very strict with clean code following the rules of a pragmatic programmer, making the projects I'm involve maintainable, scalable, flexible and easy to read.
 
 ## CV2
-I'm a software developer eager to find a role in the video game industry. I've worked on videogames in collaboration with a team to bring a realistic gameplay. I've created code with differents arquitectures I always focus in creating a clean code for easy maintenance, flexibility, scalability and easy reading.
+I'm a software developer eager to find a role in the video game industry. My passion for games brings me to make videogames, in collaboration with a team  or independently, and bring a entertaining and realistic gameplay. I've written code in differents paradigms as OPP, functional or imperative language. I always watch for a clean and well engineered code  for easy maintenance, flexibility, scalability and easy reading, also I'm constantly searching for a better way for making a program.
