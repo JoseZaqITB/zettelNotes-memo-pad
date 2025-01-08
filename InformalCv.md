@@ -65,4 +65,7 @@ I'm a software developer with 3+ years of experience, building apps for web, mob
 I am also very strict with clean code following the rules of a pragmatic programmer, making the projects I'm involve maintainable, scalable, flexible and easy to read.
 
 ## CV2
-I'm a software developer eager to find a role in the video game industry. My passion for games brings me to make videogames, in collaboration with a team  or independently, and bring a entertaining and realistic gameplay. I've written code in differents paradigms as OPP, functional or imperative language. I always watch for a clean and well engineered code  for easy maintenance, flexibility, scalability and easy reading, also I'm constantly searching for a better way for making a program.
+I'm a software developer eager to find a role in the video game industry. My passion for games brings some to make videogames, in collaboration with a team  or independently, and bring a entertaining and realistic gameplay. I've written code in differents paradigms as OPP, functional or imperative language. I always watch for a clean and well engineered code  for easy maintenance, flexibility, scalability and easy reading, also I'm constantly searching for a better way for making a program.
+
+## CV2
+I'm a software developer with 3+ years of experience in cross platform application development. Recently I finished a videogame specialization and I eager to enter in the industry and apply my skills in unreal/ unity engine. My passion for programming make me learn best practices for coding, paradigms like OOP, arquitectures like MMV, languages like C# and update my skills constantly.
