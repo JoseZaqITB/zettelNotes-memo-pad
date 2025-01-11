@@ -10,23 +10,22 @@
 
 ## Summary
 ---
-Software Engineer with experience in cross-platform application development seeking to get involved in game development.
-I am eager to explore the different areas of the game development as a gameplay Enginner and put all my skills to use while also learning from industry professionals to grow into a excellent Gameplay Engineer.
+I'm a software developer recently specialized in videogames eager to find a role in the video game industry. My passion for games brings me to make videogames either in collaboration with a team  or independently, making an entertaining and realistic gameplay. I've written code in differents paradigms as OPP, functional or imperative language. I always watch for a clean and well engineered code  for easy maintenance, flexibility, scalability and easy reading, also I'm constantly searching for a better way for making code.
 
 ## Skills
 ---
+- **Soft Skills**: Flexibility, Solve Problem, Growth Mindset, Teamwork, Communication 
 - **Game Engines**: Unreal Engine, Unity
 - **Programming Languages**: C#, C++, Blueprint, Javascript, Kotlin, Java, Python, ActionScript, SQL   
 - **Software**: Git, Visual Studio, VsCode, IDEs/Engines Debuggers, Blender, Figma, Notion, Trello, Airtable, Slack, Intellij IDEs, Cloud Services ( e.g. netlify) 
-- **Libraries/Frameworks**: Jest(test framework),FrameMotion, React
-- **Sciences**: Maths, Physics, Statistics
+- **Libraries/Frameworks**: Jest(test framework), React
 - **Languages**: Spanish, English, Catalan
 - **Others**: Edition, Animation, Military knowledge, Theater
 
 ## Education
 ---
 <div style="display: flex; justify-content: space-between;">
-  <span style="font-weight: bold;">Software Developer</span>
+  <span style="font-weight: bold;">Bachelor Degree of Science in Cross Plaftorm Development</span>
   <span>September 2020 - September 2022 </span>
 </div>
 <div style="display: flex; justify-content: space-between;">

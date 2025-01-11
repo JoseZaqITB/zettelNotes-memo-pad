@@ -1,0 +1,25 @@
+body {
+    padding: 8px 16px;
+    line-height: 1.25;
+}
+p,a,span,strong {
+    font-size: 15px;
+    margin:0px;
+}
+
+ul {
+    margin:2px 4px;
+}
+
+hr{
+    margin:0px 0px 4px 0px;
+}
+
+h1,h2{
+    margin:8px 0px 0px 0px;
+    font-weight: bold;
+}
+
+.small_size {
+    font-size: 13px;
+}
