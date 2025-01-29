@@ -1,0 +1,19 @@
+---
+title: Orthogonality
+---
+- split lines into fields:
+  - split1
+    - constructor
+    - getNextLine()
+    - getField(n)
+    - closeFile()
+  - split2
+    - constructor
+    - getField(n)
+  - main and the menu
+    - switch and cases
+    - useSplit1()
+    - useSplit2()
+  - conclusions
+    - what if I change something inside a split?
+    - and in the main?
