@@ -1,0 +1,8 @@
+--- old
++++ new
+@@ -6,1 +6,1 @@
+-## Arquitecturas
++## Estrategias de Diseño Web
+@@ -38,1 +38,1 @@
+-- **Create-react-app (CRA)**: las mas popular, usa webpack 
++- **Create-react-app (CRA)**: las mas popular, usa webpack ( it is deprecated now)
