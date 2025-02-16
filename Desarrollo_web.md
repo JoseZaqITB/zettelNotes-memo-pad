@@ -3,7 +3,7 @@
 - **Hidratacion**: añadir un script a un html para hacerlo dinamico
 - **Minificacion**: reducir el tamaño de los archivos
 - **Transpileacion**: cambia tu codigo para hacerlo compatible con versiones de js antiguas
-## Arquitecturas
+## Estrategias de Diseño Web
 - **Single-page applications (SPA)**: un unico HTML, con un script para la interaccion con el usuario 
 - **Static Side Generator (SSG)**: un HTML por pagina o URL, pero son pre-construidos y nunca cambian
 - **Server-side Rendering (SSR)**: un html por pagina o URL, pero generado segun la solicitud del usuario
@@ -35,7 +35,7 @@ Con plugins puedes:
 Es una libreria que permite crear paginas web de manera dinamica usando JS.
 #### Init
 Se puede usar un initizialer de React para crear un projecto con la estructura y herramientas basicas para empezar a trabajar.
-- **Create-react-app (CRA)**: las mas popular, usa webpack 
+- **Create-react-app (CRA)**: las mas popular, usa webpack ( it is deprecated now)
 - **Vite --template React**: enfoque en la velocidad
 - **create-next-app**: app complejas, app hibridas ( SSG, SSR, CSR)
 - **Parcel**: configuracion sencilla
