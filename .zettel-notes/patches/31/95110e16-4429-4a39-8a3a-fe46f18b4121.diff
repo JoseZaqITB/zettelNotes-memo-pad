@@ -1,0 +1,11 @@
+--- old
++++ new
+@@ -41,0 +41,6 @@
++- MERN:
++   - MongoDB
++   - express
++   - Reactjs
++   - nodejs ( entorno de ejecución)
++- 
+@@ -42,1 +48,0 @@
+-

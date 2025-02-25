@@ -29,6 +29,25 @@ Eso si, estoy especializado en ReactJs y JS en general.
 Yo me esmero en crear la mejor pagina web posible basado en lo que quieras mostrar, un blog, un servicio, ecommerce, applicaciones, apis.
 
 
+## Versión 3
+I'm José Zaquinaula a full stack developer, yep another one, but let's see what I can offer you.
+
+First at all, I'm not a superhero, I'm a normal guy, but with experience touching keyboards.
+
+I like all program languages but my mind has limits, so I choose to specialize just in one, Javascript.
+
+So, I use this two tech combinations:
+
+- MERN:
+   - MongoDB
+   - express
+   - Reactjs
+   - nodejs ( entorno de ejecución)
+- JAM:
+  - JavaScript
+  - APIs
+  - Markup
+
 # Game Programmer 
 Imserte afirmación. 
 Soy José Zaquinaula, desarrollador de software, y ayudo a las empresas o personas en la implementación del código de un videojuego. Ayudo a los equipos que desarrollan videojuegos y que necesitan  personal capacitado para hacerlo. Al unirme a su equipo aporto capacidad, creatividad, innovación y soluciones para desarrollar el código necesario para un videojuego, siguiendo estandares y colaborando con el equipo de manera eficaz.
