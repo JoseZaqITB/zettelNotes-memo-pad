@@ -53,3 +53,10 @@ Imserte afirmación.
 Soy José Zaquinaula, desarrollador de software, y ayudo a las empresas o personas en la implementación del código de un videojuego. Ayudo a los equipos que desarrollan videojuegos y que necesitan  personal capacitado para hacerlo. Al unirme a su equipo aporto capacidad, creatividad, innovación y soluciones para desarrollar el código necesario para un videojuego, siguiendo estandares y colaborando con el equipo de manera eficaz.
 Lo que hago es utilizar mis conocimientos que he adquirido como programador a lo largo de los casi 7 años como desarrollador de aplicaciones multiplataforma habiendome especializado recientemente en el área de los videojuegos.
 Si te parece interesante y te gustaría contactar conmigo o saber más de mi te ofrezco mi LinkedIn y página web
+
+# general full stack developer español
+Querido gestor de contratación.
+Soy un desarrollador de software con conocimientos en desarrollo de aplicaciones multiplataforma.
+Durante mi tiempo con Flykube fui responsable de la integración de nuevos diseños y el desarrollo de código web permitiendo a la empresa verse profesional y confiable. También, cuando se me requería, ayudaba al equipo de backend a arreglar bugs o implementar nuevas funciones ahorrando tiempo y dinero a la compañia.
+Soy un apasionado por la programación algo que me hace buscar nuevas maneras de escribir código.
+Me enfoco siempre en escribir un código limpio fácil de leer, escribir y mantener, buscando a la vez la estructura de datos, paradigma, patrón o algoritmo que encaje con el código en particular.
