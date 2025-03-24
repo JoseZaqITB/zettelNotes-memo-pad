@@ -1,7 +1,10 @@
 <h2 style="text-align: center;"> Jose Alejandro Zaquinaula Ramón </h2>
 <p style="text-align: center;">
     Email: <a href="mailto:josezaquinaula@outlook.com">josezaquinaula@outlook.com</a>
-    | 
+    |
+    Phone: <a href="tel:+34722241576">+34722241576</a>  
+</p>
+<p style="text-align: center;">
     Website: <a href="https://zaqui.netlify.app">zaqui.netlify.app</a>
     |
     LinkedIn: <a href="https://www.linkedin.com/in/jose-zaquinaula">linkedin.com/in/jose-zaquinaula</a>
@@ -17,9 +20,9 @@ Passionate about clean, maintainable code and industry best practices, I collabo
 ## Skills
 ---
 **Technical Skills**  
-- **Languages:** JavaScript, TypeScript, CSS, Kotlin, Java, Python, C#, C++, SQL, Bash, LaTeX  
-- **Frameworks & Libraries:** React, React Native, Spring Boot, Gradle, Node.js, Django, Jest, MongoDB, PostgreSQL, Firebase  
-- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers, Blender  
+- **Languages:** JavaScript, TypeScript, CSS, Java, Bash
+- **Frameworks & Libraries:** React, React Native, Node.js, Jest, Gradle, MongoDB, Firebase  
+- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
 
 **Soft Skills**  
 - Problem Solving, Flexibility, Growth Mindset, Teamwork, Communication  
@@ -78,7 +81,7 @@ Passionate about clean, maintainable code and industry best practices, I collabo
 - Implemented a CMS using markdown libraries, helping the artist to custom the web information whenever he wants. 
 - Made the Design Document and agile planning, ensuring alignment between development and design goals
 
-## Professional Experience
+## Work History
 ---
 
 <div style="display: flex; justify-content: space-between;">
