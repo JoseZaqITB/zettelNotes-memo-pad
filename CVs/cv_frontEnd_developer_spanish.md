@@ -22,7 +22,7 @@ Apasionado por el código limpio y mantenible, así como por las mejores prácti
 **Habilidades Técnicas**  
 - **Lenguajes:** JavaScript, TypeScript, CSS, Java, Bash
 - **Frameworks & Librerías:** React, React Native, Node.js, Jest, Gradle, MongoDB, Firebase  
-- **Herramientas & Plataformas:** Git, Visual Studio, VS Code, IntelliJ IDEs, Servicios en la Nube (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Depuradores  
+- **Herramientas & Plataformas:** Git, Docker,  Visual Studio, VS Code, IntelliJ IDEs, Servicios en la Nube (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Depuradores  
 
 **Habilidades Blandas**  
 - Resolución de Problemas, Flexibilidad, Mentalidad de Crecimiento, Trabajo en Equipo, Comunicación  

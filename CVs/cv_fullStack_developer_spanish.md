@@ -20,9 +20,9 @@ Sigo las mejores prácticas, estándares de la industria y metodologías ágiles
 ## Habilidades
 ---
 **Habilidades Técnicas**  
-- **Lenguajes:** avaScript, TypeScript, CSS, Java, Python, SQL, Bash
+- **Lenguajes:** JavaScript, TypeScript, CSS, Java, Python, SQL, Bash
 - **Frameworks & Librerías:** React, React Native, Django, Node.js, Jest, Gradle, MongoDB, PostgreSQL, Firebase  
-- **Herramientas & Plataformas:** Git, Visual Studio, VS Code, IntelliJ IDEs, Servicios en la Nube (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Depuradores  
+- **Herramientas & Plataformas:** Git, Docker, Visual Studio, VS Code, IntelliJ IDEs, Servicios en la Nube (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Depuradores  
 
 **Habilidades Blandas**  
 - Resolución de Problemas, Flexibilidad, Mentalidad de Crecimiento, Trabajo en Equipo, Comunicación  

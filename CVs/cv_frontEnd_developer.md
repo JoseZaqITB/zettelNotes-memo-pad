@@ -22,7 +22,7 @@ Passionate about clean, maintainable code and industry best practices, I collabo
 **Technical Skills**  
 - **Languages:** JavaScript, TypeScript, CSS, Java, Bash
 - **Frameworks & Libraries:** React, React Native, Node.js, Jest, Gradle, MongoDB, Firebase  
-- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
+- **Tools & Platforms:** Git, Docker, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
 
 **Soft Skills**  
 - Problem Solving, Flexibility, Growth Mindset, Teamwork, Communication  

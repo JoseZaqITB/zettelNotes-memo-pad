@@ -22,7 +22,7 @@ I follow best practices, industry standards, and agile methodologies to ensure c
 **Technical Skills**  
 - **Languages:** JavaScript, TypeScript, CSS, Java, Python, SQL, Bash
 - **Frameworks & Libraries:** React, React Native, Django, Node.js, Jest, Gradle, MongoDB, PostgreSQL, Firebase  
-- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
+- **Tools & Platforms:** Git, Docker,  Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
 
 **Soft Skills**  
 - Problem Solving, Flexibility, Growth Mindset, Teamwork, Communication  
