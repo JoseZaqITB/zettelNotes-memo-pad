@@ -1,0 +1,18 @@
+--- old
++++ new
+@@ -4,1 +4,4 @@
+-    | 
++    |
++    Phone: <a href="tel:+34722241576">+34722241576</a>  
++</p>
++<p style="text-align: center;">
+@@ -20,3 +23,3 @@
+-- **Languages:** JavaScript, TypeScript, CSS, Kotlin, Java, Python, C#, C++, SQL, Bash, LaTeX  
+-- **Frameworks & Libraries:** React, React Native, Spring Boot, Gradle, Node.js, Django, Jest, MongoDB, PostgreSQL, Firebase  
+-- **Tools & Platforms:** Git, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers, Blender  
++- **Languages:** JavaScript, TypeScript, CSS, Java, Bash
++- **Frameworks & Libraries:** React, React Native, Node.js, Jest, Gradle, MongoDB, Firebase  
++- **Tools & Platforms:** Git, Docker, Visual Studio, VS Code, IntelliJ IDEs, Cloud Services (e.g., Netlify, Heroku), Figma, Notion, Trello, Airtable, Slack, Debuggers  
+@@ -81,1 +84,1 @@
+-## Professional Experience
++## Work History
